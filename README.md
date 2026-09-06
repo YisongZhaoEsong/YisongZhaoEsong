@@ -2,7 +2,7 @@
 
 **MSc Creative Computing · University of the Arts London**
 
-**HCI · Human-AI Interaction · Human Centred AI · Multisensory & Embodied Interaction · Machine Learning · VR**
+**HCI · Human Centred AI · Multisensory & Embodied Interaction · Machine Learning · Gamified Interaction · VR**
 
 ## Explore My Work
 
