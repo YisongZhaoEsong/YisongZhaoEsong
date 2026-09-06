@@ -2,7 +2,7 @@
 
 **MSc Creative Computing · University of the Arts London**
 
-**Human–Computer Interaction · Huamn-AI Interaction · Multimodal & Embodied Interaction · Machine Learning**
+**Human–Computer Interaction · Huamn-AI Interaction · Multimodal & Embodied Interaction · Machine Learning · VR**
 
 ## Explore My Work
 
