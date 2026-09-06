@@ -2,7 +2,7 @@
 
 **MSc Creative Computing · University of the Arts London**
 
-**Human–Computer Interaction · Human-AI Interaction · Multimodal & Embodied Interaction · Machine Learning · VR**
+**HCI · Human-AI Interaction · Human Centred AI · Multimodal & Embodied Interaction · Machine Learning · VR**
 
 ## Explore My Work
 
@@ -20,7 +20,7 @@
 
 ## Research Focus
 
-My research explores human–computer interaction across intelligent, multimodal and immersive systems. I approach this work through Research through Design, participatory design and mixed-method HCI evaluation.
+My research explores human–computer interaction across intelligent, multisensory and immersive systems. I approach this work through Research through Design, participatory design and mixed-method HCI evaluation.
 
 Research Through Design
 
