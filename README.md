@@ -2,14 +2,14 @@
 
 **MSc Creative Computing · University of the Arts London**
 
-**HCI · Human-AI Interaction · Human Centred AI · Multimodal & Embodied Interaction · Machine Learning · VR**
+**HCI · Human-AI Interaction · Human Centred AI · Multisensory & Embodied Interaction · Machine Learning · VR**
 
 ## Explore My Work
 
 | Research & Publications | Academic CV |
 | --- | --- |
 | **[View Research →](https://github.com/YisongZhaoEsong/Research-Publications)** | **[View CV →](https://github.com/YisongZhaoEsong/Academic-CV)** |
-| Adaptive HCI, multimodal interaction, intelligent systems and interaction design research. | Education, research experience, publications, projects and professional experience. |
+| Adaptive HCI, Embodied & multisensory interaction, intelligent systems and interaction design research. | Education, research experience, publications, projects and professional experience. |
 
 | Postgraduate Projects | Undergraduate Projects |
 | --- | --- |
