@@ -20,9 +20,9 @@
 
 ## Research Focus
 
-My current interests centre on **human–computer interaction**, particularly adaptive and intelligent interfaces, multimodal and embodied interaction, immersive environments, and human-centred applications of AI.
+My research explores human–computer interaction across intelligent, multimodal and immersive systems. I approach this work through Research through Design, participatory design and mixed-method HCI evaluation.
 
-Across my research and design practice, I am interested in how interactive systems can move beyond static interfaces and respond more meaningfully to users, contexts and behaviour.
+Research Through Design
 
 ---
 
