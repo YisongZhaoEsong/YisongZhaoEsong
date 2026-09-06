@@ -9,7 +9,7 @@
 | Research & Publications | Academic CV |
 | --- | --- |
 | **[View Research →](https://github.com/YisongZhaoEsong/Research-Publications)** | **[View CV →](https://github.com/YisongZhaoEsong/Academic-CV)** |
-| Adaptive HCI, Embodied & multisensory interaction, intelligent systems and interaction design research. | Education, research experience, publications, projects and professional experience. |
+| Adaptive HCI, Human Centred AI, Embodied & multisensory interaction, intelligent systems and interaction design research. | Education, research experience, publications, projects and professional experience. |
 
 | Postgraduate Projects | Undergraduate Projects |
 | --- | --- |
