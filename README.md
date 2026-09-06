@@ -28,7 +28,7 @@ Research Through Design
 
 ## Selected Research Areas
 
-`Human–Computer Interaction` · `Human Centred AI` · `Human–AI Interaction` · `Multisensory Interaction` · `Embodied Interaction` · `VR/XR` · `Interaction Design`
+`Human–Computer Interaction` · `Human Centred AI` · `Human–AI Interaction` · `Multisensory Interaction` · `Embodied Interaction` · `VR/XR` · `software engineering`
 
 ---
 
