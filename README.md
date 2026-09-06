@@ -20,7 +20,7 @@
 
 ## Research Focus
 
-My research explores human–computer interaction across intelligent, multisensory and immersive systems. I approach this work through Research through Design, participatory design and mixed-method HCI evaluation.
+My research explores human–computer interaction across intelligent, multisensory and embodied systems. I approach this work through Research through Design, participatory design and mixed-method HCI evaluation.
 
 Research Through Design
 
