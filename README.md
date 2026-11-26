@@ -1,6 +1,6 @@
 # Yisong Zhao
 
-**MSc Creative Computing · University of the Arts London**
+**MSc Creative Computing · University of the Arts London**nn
 
 **HCI · Human Centred AI · Multisensory & Embodied Interaction · Machine Learning · Gamified Interaction · VR**
 
