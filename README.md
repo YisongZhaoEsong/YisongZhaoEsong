@@ -2,7 +2,7 @@
 
 **Master of Science, Creative Computing · University of the Arts London**
 
-**伦敦艺术大学创意计算理工学硕士，创意计算机，伦敦艺术大学**
+**伦敦艺术大学创意计算机理工学硕士，创意计算机，伦敦艺术大学**
 
 **HCI · Human Centred AI · Multisensory & Embodied Interaction · Machine Learning · XR/VR**
 
@@ -13,6 +13,9 @@
 **探索我的工作**
 
 | Research & Publications | Academic CV |
+
+**研究&出版** **个人简历**
+
 | --- | --- |
 | **[View Research →](https://github.com/YisongZhaoEsong/Research-Publications)** | **[View CV →](https://github.com/YisongZhaoEsong/Academic-CV)** |
 | Adaptive HCI, Human Centred AI, Embodied & multisensory interaction, intelligent systems and interaction design research. | Education, research experience, publications, projects and professional experience. |
