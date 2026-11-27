@@ -6,7 +6,11 @@
 
 **HCI · Human Centred AI · Multisensory & Embodied Interaction · Machine Learning · XR/VR**
 
+**人机交互 · 以人为中心的人工智能 · 多感官与具身交互 · 机器学习 · 扩展现实/虚拟现实**
+
 ## Explore My Work
+
+**探索我的工作**
 
 | Research & Publications | Academic CV |
 | --- | --- |
