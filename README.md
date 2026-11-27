@@ -2,6 +2,8 @@
 
 **Master of Science, Creative Computing · University of the Arts London**
 
+**伦敦艺术大学创意计算理工学硕士，创意计算机，伦敦艺术大学**
+
 **HCI · Human Centred AI · Multisensory & Embodied Interaction · Machine Learning · XR/VR**
 
 ## Explore My Work
